@@ -1,1 +1,1 @@
-vless://fe069d77-882c-4175-b48e-c79e3fe65a81@65.109.191.227:443?encryption=none&security=tls&sni=nextgenerationaiplatform.ir&type=ws&host=nextgenerationaiplatform.ir&path=%2FfsafasfsafA#%E4%B8%B4%E6%97%B6%E8%8A%82%E7%82%B9%E5%A4%87%E7%94%A8
+vless://fe069d77-882c-4175-b48e-c79e3fe65a81@65.109.191.227:443?encryption=none&security=tls&sni=nextgenerationaiplatform.ir&type=ws&host=nextgenerationaiplatform.ir&path=%2FfsafasfsafA#---------%E5%85%B1%E4%BA%AB%E8%8A%82%E7%82%B9%E5%A4%87%E7%94%A8---------
