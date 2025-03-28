@@ -1,1 +1,1 @@
-vless://33456f0a-f7e6-4263-bba4-5cf56ac1de7e@127.0.0.1:1234?encryption=none&security=tls&sni=qifei.199663.xyz&fp=random&type=ws&host=qifei.199663.xyz&path=%2F%3Fed%3D2560#%E5%A4%87%E7%94%A8%E8%8A%82%E7%82%B9%E9%80%9F%E5%BA%A6%E7%A8%8D%E6%85%A2
+vless://33456f0a-f7e6-4263-bba4-5cf56ac1de7e@127.0.0.1:1234?encryption=none&security=tls&sni=qifei.199663.xyz&fp=random&type=ws&host=qifei.199663.xyz&path=%2F%3Fed%3D2560#---------%E5%A4%87%E7%94%A8%E8%8A%82%E7%82%B9%E7%A8%8D%E6%85%A2---------
